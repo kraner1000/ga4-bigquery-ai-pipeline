@@ -54,6 +54,6 @@ Raw metrics are formatted into context-rich data payloads and pushed to LLM APIs
 ## 📧 Contact & B2B Inquiries
 Built by **Dataflow Analytics**. We build custom data architectures, fix broken tracking systems, and deploy automated cloud analytics pipelines for high-growth SaaS & EdTech platforms.
 
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/artem-lukyanov-18b230414/]
 * **B2B Offerings:** Fixed-rate custom data pipelines and comprehensive tracking audits starting at **$1,500**.
 * **Settlement Address (Solana/USDC):** [FL1nKn8sFcvV9CwKHTEnW9hheo6qozyG25pRBYd9PvS4]
